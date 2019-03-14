@@ -34,7 +34,7 @@ The app defines following CRUD APIs.
     
     POST /accounts/new
     
-    PUT /accounts/{noteId}
+    PUT /accounts/{id}
       Param: double amount
 
 You can test them using postman or any other rest client.
