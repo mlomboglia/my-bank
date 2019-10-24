@@ -41,3 +41,5 @@ You can test them using postman or any other rest client.
 
 ## Learn more
 
+https://medium.com/@mlombog/lets-create-a-crud-rest-api-with-spring-boot-jpa-and-h2-fc070006e654
+
